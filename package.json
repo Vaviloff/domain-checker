@@ -1,0 +1,19 @@
+{
+  "name": "domain-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "exceljs": "^4.1.1",
+    "got": "^11.5.2"
+  },
+  "scripts": {
+    "start": "node --tls-min-v1.0 index.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }  
+}
