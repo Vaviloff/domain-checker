@@ -1,3 +1,3 @@
 # domain checker
 
-Get domains from the xlsx and checkes if they work.
+Get domains from the xlsx and check if they can be visited.
